@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="logout">Logout</string>
+    <string name="edit_password">Edit Password</string>
+    <string name="about">About</string>
+    <string name="rule">Rules</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="menu">Menu</string>
+</resources>
